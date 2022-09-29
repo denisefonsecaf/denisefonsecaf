@@ -1,6 +1,6 @@
 ### Olá, eu sou a Denise Fonseca Flausino
 
-- 🌱 Graduanda em Análise e desenvolvimento de sistemas
+- 🌱 Graduanda em Análise e Desenvolvimento de Sistemas
 - 😄 Pronomes: Ela/Dela
 - ⚡ Um fato sobre mim é que eu toco violão no meu tempo livre
 
